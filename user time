@@ -1,0 +1,4 @@
+if(userTimezone == 0){ userTimezone = "America/New_York"};
+
+theTime = new Date().toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', timeZone: userTimezone});
+theDate = new Date().toLocaleDateString(locale, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: userTimezone});
