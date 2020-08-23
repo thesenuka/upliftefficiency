@@ -1,0 +1,61 @@
+{
+    "bodyTemplate2Data": {
+        "type": "object",
+        "objectId": "bt2Sample",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/screeen.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/screeen.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "",
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upliftefficiency.somizu.tech/uplift.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://www.wooll-e.com/wp-content/uploads/revslider/homev5/hello.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "title": {
+                "type": "PlainText",
+                "text": "Screen Timer | Uplift Efficiency"
+            },
+            "subtitle": {
+                "type": "PlainText",
+                "text": ""
+            },
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Working with a screen for a long time?<br>Then set up a screen timer and get to work. We'll remind you every 20 minutes to take a 20 second break and look at something which is 20 feet away.<br>This way your eyes can have a break and it is good for your health and efficiency both."
+            }
+        },
+        "logoUrl": "https://upliftefficiency.somizu.tech/upliftefficiency.png",
+        "hintText": "Try, \"Alexa, Set a screen timer for 3 hours\""
+    }
+}
