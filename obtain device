@@ -1,0 +1,3 @@
+deviceId = _system.device.deviceId;
+apiAccessToken = _system.apiAccessToken;
+apiEndpoint = _system.apiEndpoint;
