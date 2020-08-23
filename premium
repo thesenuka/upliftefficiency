@@ -1,0 +1,52 @@
+{
+    "bodyTemplate6Data": {
+        "type": "object",
+        "objectId": "bt6Sample",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upliftefficiency.somizu.tech/sss.png",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://upliftefficiency.somizu.tech/sss.png",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Uplift Efficiency Premium"
+            }
+        },
+        "logoUrl": "https://upliftefficiency.somizu.tech/premium.png",
+        "hintText": "For the guide say, \"Alexa, Help\""
+    }
+}

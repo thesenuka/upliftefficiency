@@ -1,0 +1,52 @@
+{
+    "bodyTemplate6Data": {
+        "type": "object",
+        "objectId": "bt6Sample",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/pomodoro.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/pomodoro.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "image": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/editdayplan.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://upliftefficiency.somizu.tech/images/editdayplan.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "textContent": {
+            "primaryText": {
+                "type": "PlainText",
+                "text": "Productivity Timer | Uplift Efficiency"
+            }
+        },
+        "logoUrl": "https://upliftefficiency.somizu.tech/uewhite.png",
+        "hintText": "Try, \"Alexa, begin a work session of 4 hours\""
+    }
+}
